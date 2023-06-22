@@ -1,0 +1,9 @@
+[user]
+	email = andreyfree2020@gmail.com
+	name = andreyfree2020
+[alias]
+	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+	co = checkout
+	ci = commit
+	st = status
+	br = branch

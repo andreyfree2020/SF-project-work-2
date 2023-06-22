@@ -1,5 +1,5 @@
 ﻿Наш удаленный репозиторий находится по адресу:
-https://github.com/andreyfree2020/SF-project-work-2.githttps://github.com/andreyfree2020/SF-project-work-2.githttps://github.com/andreyfree2020/SF-project-work-2.git(https://github.com/andreyfree2020/SF-project-work-2.git)
+https://github.com/andreyfree2020/SF-project-work-2.git
 
 Как выглядит процесс разработки в нашей компании описано в Приложении 1  (ниже в данном файле).
 
@@ -30,7 +30,7 @@ id – это номер вашей задачи в системе JIRA. Зад�
 Иниализируйте свой локальный репозиторий:
 ~ git init
 Свяжите свой локальный репозиторий с удаленным:
-~ git remote add origin https://github.com/andreyfree2020/SF-project-work-2.githttps://github.com/andreyfree2020/SF-project-work-2.githttps://github.com/andreyfree2020/SF-project-work-2.git(https://github.com/andreyfree2020/SF-project-work-2.git)
+~ git remote add origin https://github.com/andreyfree2020/SF-project-work-2.git
 Проверяем:
 ~ git remote -v
 Скачайте себе ветку master с удаленного репозитория содержащую данный файл README, а также файл конфигурации .gitconfig:
